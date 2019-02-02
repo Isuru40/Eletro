@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Eletro</string>
+    <string name="ac_control">AC Controlling</string>
+    <string name="load1_control">Load 1 </string>
+    <string name="load2_control">Load 2 </string>
+    <string name="sensor_control">Sensor Test </string>
+    <string name="device_control">Device Test </string>
+    <string name="title_activity_featurectivity">Dashboard</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">4Dimension</string>
+    <string name="nav_header_subtitle">www.4Dimension.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="country_prompt">FAN SPEED</string>
+
+    <string-array name="country_arrays">
+        <item>HIGH</item>
+        <item>MEDIUM</item>
+        <item>LOW</item>
+
+    </string-array>
+
+
+</resources>

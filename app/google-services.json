@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "662326274516",
+    "firebase_url": "https://android-firebase-add54.firebaseio.com",
+    "project_id": "android-firebase-add54",
+    "storage_bucket": "android-firebase-add54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662326274516:android:04776623d37c9acd",
+        "android_client_info": {
+          "package_name": "firebase.mango.eletro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662326274516-atp1fioovim0qdv25vbmp58b30sr6518.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "firebase.mango.eletro",
+            "certificate_hash": "d0235f5f1cffa23c4dd96698d03273a46616be7a"
+          }
+        },
+        {
+          "client_id": "662326274516-hfll4jvln6jq9oui09isno9c4mik2ak8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR8sY6jJBxlY-sY9f1Jo0Lxts16zSO8Ug"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662326274516-hfll4jvln6jq9oui09isno9c4mik2ak8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
